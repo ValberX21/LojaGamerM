@@ -1,0 +1,15 @@
+C:\_developer\testL2Valber\LojaGamerM.Bussines\bin\Debug\net7.0\LojaGamerM.Bussines.deps.json
+C:\_developer\testL2Valber\LojaGamerM.Bussines\bin\Debug\net7.0\LojaGamerM.Bussines.dll
+C:\_developer\testL2Valber\LojaGamerM.Bussines\bin\Debug\net7.0\LojaGamerM.Bussines.pdb
+C:\_developer\testL2Valber\LojaGamerM.Bussines\bin\Debug\net7.0\LojaGamerM.Models.dll
+C:\_developer\testL2Valber\LojaGamerM.Bussines\bin\Debug\net7.0\LojaGamerM.Models.pdb
+C:\_developer\testL2Valber\LojaGamerM.Bussines\obj\Debug\net7.0\LojaGamerM.Bussines.csproj.AssemblyReference.cache
+C:\_developer\testL2Valber\LojaGamerM.Bussines\obj\Debug\net7.0\LojaGamerM.Bussines.GeneratedMSBuildEditorConfig.editorconfig
+C:\_developer\testL2Valber\LojaGamerM.Bussines\obj\Debug\net7.0\LojaGamerM.Bussines.AssemblyInfoInputs.cache
+C:\_developer\testL2Valber\LojaGamerM.Bussines\obj\Debug\net7.0\LojaGamerM.Bussines.AssemblyInfo.cs
+C:\_developer\testL2Valber\LojaGamerM.Bussines\obj\Debug\net7.0\LojaGamerM.Bussines.csproj.CoreCompileInputs.cache
+C:\_developer\testL2Valber\LojaGamerM.Bussines\obj\Debug\net7.0\LojaGamerM.Bussines.csproj.CopyComplete
+C:\_developer\testL2Valber\LojaGamerM.Bussines\obj\Debug\net7.0\LojaGamerM.Bussines.dll
+C:\_developer\testL2Valber\LojaGamerM.Bussines\obj\Debug\net7.0\refint\LojaGamerM.Bussines.dll
+C:\_developer\testL2Valber\LojaGamerM.Bussines\obj\Debug\net7.0\LojaGamerM.Bussines.pdb
+C:\_developer\testL2Valber\LojaGamerM.Bussines\obj\Debug\net7.0\ref\LojaGamerM.Bussines.dll

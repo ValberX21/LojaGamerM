@@ -1,0 +1,7 @@
+C:\_developer\testL2Valber\LojaGamerM\obj\Release\net7.0\LojaGamerM.csproj.AssemblyReference.cache
+C:\_developer\testL2Valber\LojaGamerM\obj\Release\net7.0\LojaGamerM.GeneratedMSBuildEditorConfig.editorconfig
+C:\_developer\testL2Valber\LojaGamerM\obj\Release\net7.0\LojaGamerM.AssemblyInfoInputs.cache
+C:\_developer\testL2Valber\LojaGamerM\obj\Release\net7.0\LojaGamerM.AssemblyInfo.cs
+C:\_developer\testL2Valber\LojaGamerM\obj\Release\net7.0\LojaGamerM.csproj.CoreCompileInputs.cache
+C:\_developer\testL2Valber\LojaGamerM\obj\Release\net7.0\LojaGamerM.MvcApplicationPartsAssemblyInfo.cs
+C:\_developer\testL2Valber\LojaGamerM\obj\Release\net7.0\LojaGamerM.MvcApplicationPartsAssemblyInfo.cache

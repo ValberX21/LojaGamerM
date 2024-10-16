@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LojaGamerM.Bussines/1.0.0": {
+        "dependencies": {
+          "LojaGamerM.Models": "1.0.0"
+        },
+        "runtime": {
+          "LojaGamerM.Bussines.dll": {}
+        }
+      },
+      "LojaGamerM.Models/1.0.0": {
+        "runtime": {
+          "LojaGamerM.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LojaGamerM.Bussines/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LojaGamerM.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

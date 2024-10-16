@@ -1,0 +1,11 @@
+C:\_developer\testL2Valber\LojaGamerM.Models\bin\Debug\net7.0\LojaGamerM.Models.deps.json
+C:\_developer\testL2Valber\LojaGamerM.Models\bin\Debug\net7.0\LojaGamerM.Models.dll
+C:\_developer\testL2Valber\LojaGamerM.Models\bin\Debug\net7.0\LojaGamerM.Models.pdb
+C:\_developer\testL2Valber\LojaGamerM.Models\obj\Debug\net7.0\LojaGamerM.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\_developer\testL2Valber\LojaGamerM.Models\obj\Debug\net7.0\LojaGamerM.Models.AssemblyInfoInputs.cache
+C:\_developer\testL2Valber\LojaGamerM.Models\obj\Debug\net7.0\LojaGamerM.Models.AssemblyInfo.cs
+C:\_developer\testL2Valber\LojaGamerM.Models\obj\Debug\net7.0\LojaGamerM.Models.csproj.CoreCompileInputs.cache
+C:\_developer\testL2Valber\LojaGamerM.Models\obj\Debug\net7.0\LojaGamerM.Models.dll
+C:\_developer\testL2Valber\LojaGamerM.Models\obj\Debug\net7.0\refint\LojaGamerM.Models.dll
+C:\_developer\testL2Valber\LojaGamerM.Models\obj\Debug\net7.0\LojaGamerM.Models.pdb
+C:\_developer\testL2Valber\LojaGamerM.Models\obj\Debug\net7.0\ref\LojaGamerM.Models.dll
