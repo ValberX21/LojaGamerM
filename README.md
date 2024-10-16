@@ -32,8 +32,7 @@ A API de Embalagem de Pedidos é um serviço web baseado em .NET 7, projetado pa
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/LojaGamerM/order-packing-api.git
-   cd order-packing-api
+   git clone https://github.com/ValberX21/LojaGamerM/tree/main
 2. Construa a imagem Docker:
     docker build -t order-packing-api .
 
